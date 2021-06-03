@@ -1,0 +1,7 @@
+<br />
+commit = 8416538a94118e55ef28bab72ec677386a305a20<br />
+path = vendor/openssl-src/openssl/ssl/statem/extensions.c<br />
+blob = 63e61c6184acfd478b516196c50a89d8635811d5<br />
+project = <a href="https://android.googlesource.com/toolchain/rustc">android.googlesource.com/toolchain/rustc</a><br />
+path_url = <a href="https://android.googlesource.com/toolchain/rustc/blob/HEAD/vendor/openssl-src/openssl/ssl/statem/extensions.c">https://android.googlesource.com/toolchain/rustc/blob/HEAD/vendor/openssl-src/openssl/ssl/statem/extensions.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
