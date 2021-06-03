@@ -1,0 +1,7 @@
+<br />
+commit = 0e1e87827326aa785da225aa980d7429a9d562f7<br />
+path = src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java<br />
+blob = 5f2909d6a0a3b0fbf9c30562639b8a3792f38b03<br />
+project = <a href="https://salsa.debian.org/java-team/jackson-databind">salsa.debian.org/java-team/jackson-databind</a><br />
+path_url = <a href="https://salsa.debian.org/java-team/jackson-databind/blob/HEAD/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java">https://salsa.debian.org/java-team/jackson-databind/blob/HEAD/src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
