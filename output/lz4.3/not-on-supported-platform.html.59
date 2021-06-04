@@ -1,0 +1,14 @@
+<br />
+commit = 1108c5a4864a780d159a7de302ed53cd625d793b<br />
+path = mfbt/lz4.c<br />
+blob = 5752b4d17b0e63af5b4aa13cd3c6c37351f6b87b<br />
+project = <a href="https://salsa.debian.org/libregeekingkid-guest/firefox">salsa.debian.org/libregeekingkid-guest/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/libregeekingkid-guest/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/libregeekingkid-guest/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 255d3db87ed90ac53967e2a49505e2ed9d4ac292<br />
+path = mfbt/lz4.c<br />
+blob = 5752b4d17b0e63af5b4aa13cd3c6c37351f6b87b<br />
+project = <a href="https://salsa.debian.org/gnome-team/mozjs52">salsa.debian.org/gnome-team/mozjs52</a><br />
+path_url = <a href="https://salsa.debian.org/gnome-team/mozjs52/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/gnome-team/mozjs52/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

@@ -1,0 +1,7 @@
+<br />
+commit = 510694794de3b40988edfe9f01fa92e649fadacc<br />
+path = src/lz4.c<br />
+blob = 4558117274ecd21e7e462d8ce6e0339b99f9c6d1<br />
+project = <a href="https://salsa.debian.org/perl-team/modules/packages/libcompress-lz4-perl">salsa.debian.org/perl-team/modules/packages/libcompress-lz4-perl</a><br />
+path_url = <a href="https://salsa.debian.org/perl-team/modules/packages/libcompress-lz4-perl/blob/HEAD/src/lz4.c">https://salsa.debian.org/perl-team/modules/packages/libcompress-lz4-perl/blob/HEAD/src/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

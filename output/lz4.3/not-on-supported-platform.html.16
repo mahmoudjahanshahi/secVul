@@ -1,0 +1,7 @@
+<br />
+commit = 0a4a5e4e7f6373b512fc2040ae88e4083696b629<br />
+path = src/ChezScheme/lz4/lib/lz4.c<br />
+blob = cecfa528bacb9c77930c11354715f3a3f8227606<br />
+project = <a href="https://salsa.debian.org/bremner/racket">salsa.debian.org/bremner/racket</a><br />
+path_url = <a href="https://salsa.debian.org/bremner/racket/blob/HEAD/src/ChezScheme/lz4/lib/lz4.c">https://salsa.debian.org/bremner/racket/blob/HEAD/src/ChezScheme/lz4/lib/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

@@ -1,0 +1,7 @@
+<br />
+commit = f6345e903a84f44a802cb069fa94686c54b78370<br />
+path = deps/sonLib/C/impl/lz4.c<br />
+blob = f15dcfc59a91640b50f897dfcd044c63b85beddc<br />
+project = <a href="https://salsa.debian.org/med-team/vg">salsa.debian.org/med-team/vg</a><br />
+path_url = <a href="https://salsa.debian.org/med-team/vg/blob/HEAD/deps/sonLib/C/impl/lz4.c">https://salsa.debian.org/med-team/vg/blob/HEAD/deps/sonLib/C/impl/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

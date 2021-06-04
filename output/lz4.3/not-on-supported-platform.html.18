@@ -1,0 +1,56 @@
+<br />
+commit = 060decf4d97358b1772fb68fe7df03d1d71d9945<br />
+path = src/borg/algorithms/lz4/lib/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/debian/borgbackup">salsa.debian.org/debian/borgbackup</a><br />
+path_url = <a href="https://salsa.debian.org/debian/borgbackup/blob/HEAD/src/borg/algorithms/lz4/lib/lz4.c">https://salsa.debian.org/debian/borgbackup/blob/HEAD/src/borg/algorithms/lz4/lib/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/Manas-kashyap-guest/firefox">salsa.debian.org/Manas-kashyap-guest/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/Manas-kashyap-guest/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/Manas-kashyap-guest/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/edward/firefox">salsa.debian.org/edward/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/edward/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/edward/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/jcristau/firefox">salsa.debian.org/jcristau/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/jcristau/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/jcristau/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/jgoerzen/firefox">salsa.debian.org/jgoerzen/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/jgoerzen/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/jgoerzen/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/mozilla-team/firefox">salsa.debian.org/mozilla-team/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/mozilla-team/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/mozilla-team/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1663b96d340655c716989c2961ee8f4ded6fb3d4<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/zocker1999net-guest/firefox">salsa.debian.org/zocker1999net-guest/firefox</a><br />
+path_url = <a href="https://salsa.debian.org/zocker1999net-guest/firefox/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/zocker1999net-guest/firefox/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 4b86a78434a47f4196250fa9ec2d107886d138a9<br />
+path = mfbt/lz4.c<br />
+blob = e51a3e0a46c9608bedbb0b9565d736240b30bde6<br />
+project = <a href="https://salsa.debian.org/mozilla-team/thunderbird">salsa.debian.org/mozilla-team/thunderbird</a><br />
+path_url = <a href="https://salsa.debian.org/mozilla-team/thunderbird/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/mozilla-team/thunderbird/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

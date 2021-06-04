@@ -1,0 +1,7 @@
+<br />
+commit = 4e863bf5ff3c2a3f7c6921a4c352bfe0a68fa3ae<br />
+path = mfbt/lz4.c<br />
+blob = 48879e2b042e4f78379f11fed8355cc9c0877fcf<br />
+project = <a href="https://salsa.debian.org/ptomato-guest/mozjs60">salsa.debian.org/ptomato-guest/mozjs60</a><br />
+path_url = <a href="https://salsa.debian.org/ptomato-guest/mozjs60/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/ptomato-guest/mozjs60/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

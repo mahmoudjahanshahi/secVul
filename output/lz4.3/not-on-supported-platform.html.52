@@ -1,0 +1,7 @@
+<br />
+commit = 1c86e582c11a37cd3df1fb83d8696a772e5cf0b9<br />
+path = contrib/liblz4/src/lz4.c<br />
+blob = 47f3200bed28b9adafc4c71675d4c02eeb841c31<br />
+project = <a href="https://salsa.debian.org/jbfavre-guest/clickhouse">salsa.debian.org/jbfavre-guest/clickhouse</a><br />
+path_url = <a href="https://salsa.debian.org/jbfavre-guest/clickhouse/blob/HEAD/contrib/liblz4/src/lz4.c">https://salsa.debian.org/jbfavre-guest/clickhouse/blob/HEAD/contrib/liblz4/src/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

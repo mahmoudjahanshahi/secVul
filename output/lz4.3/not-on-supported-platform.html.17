@@ -1,0 +1,7 @@
+<br />
+commit = 5e6f8285371eb5f9054747e04776d73eff8fe221<br />
+path = src/helpers/fst/lz4.c<br />
+blob = d58be27a28328116a05921be139cb6968d6ad4d9<br />
+project = <a href="https://salsa.debian.org/electronics-team/gtkwave">salsa.debian.org/electronics-team/gtkwave</a><br />
+path_url = <a href="https://salsa.debian.org/electronics-team/gtkwave/blob/HEAD/src/helpers/fst/lz4.c">https://salsa.debian.org/electronics-team/gtkwave/blob/HEAD/src/helpers/fst/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

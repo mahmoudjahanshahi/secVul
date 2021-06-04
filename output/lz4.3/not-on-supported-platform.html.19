@@ -1,0 +1,42 @@
+<br />
+commit = 0855ac8bea350877491a67a5955dc8537863e90e<br />
+path = src/static_libs/lz4/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/pkg-e-team/efl">salsa.debian.org/pkg-e-team/efl</a><br />
+path_url = <a href="https://salsa.debian.org/pkg-e-team/efl/blob/HEAD/src/static_libs/lz4/lz4.c">https://salsa.debian.org/pkg-e-team/efl/blob/HEAD/src/static_libs/lz4/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1c010ee557d4aab4f7c8cbf71ba0e8256ecee304<br />
+path = mfbt/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/3v1n0-guest/mozjs">salsa.debian.org/3v1n0-guest/mozjs</a><br />
+path_url = <a href="https://salsa.debian.org/3v1n0-guest/mozjs/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/3v1n0-guest/mozjs/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1c010ee557d4aab4f7c8cbf71ba0e8256ecee304<br />
+path = mfbt/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/gnome-team/mozjs68">salsa.debian.org/gnome-team/mozjs68</a><br />
+path_url = <a href="https://salsa.debian.org/gnome-team/mozjs68/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/gnome-team/mozjs68/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 1c010ee557d4aab4f7c8cbf71ba0e8256ecee304<br />
+path = mfbt/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/laney/mozjs68">salsa.debian.org/laney/mozjs68</a><br />
+path_url = <a href="https://salsa.debian.org/laney/mozjs68/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/laney/mozjs68/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 398e36c756a3067de8e2b35dd380baef040dfe0d<br />
+path = lib/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/psiblade-guest/lz4">salsa.debian.org/psiblade-guest/lz4</a><br />
+path_url = <a href="https://salsa.debian.org/psiblade-guest/lz4/blob/HEAD/lib/lz4.c">https://salsa.debian.org/psiblade-guest/lz4/blob/HEAD/lib/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
+<br />
+commit = 8d6f42f47d1a76ccd7435d5f201c51a96b825953<br />
+path = mfbt/lz4.c<br />
+blob = e614c4577f2ae8b2db76ff838f2051eeeeb1a89b<br />
+project = <a href="https://salsa.debian.org/3v1n0-guest/mozjs68">salsa.debian.org/3v1n0-guest/mozjs68</a><br />
+path_url = <a href="https://salsa.debian.org/3v1n0-guest/mozjs68/blob/HEAD/mfbt/lz4.c">https://salsa.debian.org/3v1n0-guest/mozjs68/blob/HEAD/mfbt/lz4.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
