@@ -9,19 +9,12 @@ acobaugh_terraform-provider-bluecat
 actiontech_dtle
 adamdecaf_terraform-provider-namecheap
 adamhathcock_gocompress
-adeleporte_terraform-provider-appdefense
-adeleporte_terraform-provider-velocloud
-adeleporte_terraform-provider-vrni
 admpub_nging
 aenthill_aenthill
 afady_packer-builder-vultr
-agilesyndrome_terraform
 agy_terraform-provider-lambda
 ahmaddanni_terraform-provider-aws
 ajbosco_terraform-provider-segment
-ajesse11x_gardener
-ajesse11x_gravity
-ajesse11x_packer
 akerl_terraform-provider-awscreds
 akraino-edge-stack_kni-installer
 akrishnamu21_Terraform
@@ -50,7 +43,6 @@ appscodelabs_release-automaton
 arescentral_deb
 arhat-dev_arhat
 arhat-ext_runtime-podman
-arianvp_vault
 articulate_terraform-provider-okta
 artisanofcode_terraform-provider-drone
 Ashald_terraform-provider-consulacl
@@ -58,7 +50,6 @@ Ashald_terraform-provider-stateful
 Ashald_terraform-provider-transform
 Ashald_terraform-provider-yaml
 atlassian_terraform-provider-artifactory
-audy018_lazygit
 autom8ter_cryptcfg
 avarteqgmbh_rvm-cnb
 AviatrixSystems_terraform-provider-aviatrix
@@ -83,8 +74,6 @@ bhuisgen_terraform-provisioner-docker
 bigstepinc_terraform-provider-metalcloud
 bigswitch_automation
 bkuschel_kustomize-packager
-blackspawn_postgres_exporter
-bramwelt_terraform-provider-github
 brickzzhang_terraform-provider-info-collecting-service
 brightbox_terraform-provider-brightbox
 Broadcom_terraform-provider-luminate
@@ -92,7 +81,6 @@ broamski_terraform-provider-duo
 BSick7_terraform-provider-sumologic
 b-social_terraform-provider-kafkaconnect
 btwiuse_k0s
-bzub_tfcode
 camlow325_terraform-provider-fake
 camptocamp_terradb
 camptocamp_terraform-provider-freeipa
@@ -144,7 +132,6 @@ contextcloud_ccb-cli
 coreos_terraform-provider-ct
 coreos_tls_rotate
 Cox-Automotive_terraform-provider-alks
-coygo_caddy-builder
 cpswarm_deployment-tool
 cvbarros_terraform-provider-teamcity
 cybozu-go_neco
@@ -156,7 +143,6 @@ DanielMabbett_terraform-provider-jenkinsci
 danryan_terraform-provider-device42
 dansteen_terrarium
 datacol-io_datacol
-davidHalbani_terraform
 davidsbond_terraform-provider-tailscale
 Debaru_curscraft
 defn_terraform-provider-scripted
@@ -168,8 +154,6 @@ DevopsArtFactory_escli
 devopsdunkin_terraform-provider-nagios
 devopsmakers_xterrafile
 devspace-cloud_devspace-cloud-plugin
-dhendel_terraform-provider-awx
-dhendel_terraform-provisioner-awx
 Dids_clobber
 Didstopia_steamer
 Dippynark_terraform-provider-awstag
@@ -213,6 +197,7 @@ exoscale_terraform-provider-exoscale
 extenda_terraform-provider-fleetmanager
 fasibio_funk_agent
 fewkso_terraform-provider-cassandra
+filebrowser_filebrowser
 FINRAOS_yum-nginx-api
 fishman_terraform-provider-freenas
 fission_fission
@@ -252,7 +237,14 @@ Genymobile_terraform-provider-genymotion
 getlantern_lantern
 GibinGeorge7_Terra
 Girbons_comics-downloader
+gitlab.com_adeleporte_terraform-provider-appdefense
+gitlab.com_adeleporte_terraform-provider-velocloud
+gitlab.com_adeleporte_terraform-provider-vrni
 gitlab.com_avinetworks_terraform-provider-avi
+gitlab.com_bzub_tfcode
+gitlab.com_coygo_caddy-builder
+gitlab.com_dhendel_terraform-provisioner-awx
+gitlab.com_jocelynthode_terraform-provider-openshift
 giuseppe_os-containers
 gkGaneshR_temprepo
 GlenDC_zerodisk
@@ -277,7 +269,6 @@ gravitational_gravity
 gyuho_dplearn
 gzimax_myreppo
 haba1337_terraform-provider-puppetca
-halasNet_terraform-provider-azurerm
 Hardeep18_terrafor
 hashicorp_nomad
 hashicorp_packer
@@ -340,10 +331,8 @@ jkwong888_go-helm-operator
 jlpedrosa_terraform-provider-mongodb
 jmcgill_formation
 joatmon08_terraform-provider-medium
-jocelynthode_terraform-provider-openshift
 jorcau_terraform-provider-cloud-deploy
 JordanSussman_terraform-provider-ignition
-joshmue_terraform
 josmo_terraform-provider-classis
 josmo_terraform-provider-sampleclassis
 joyent_triton-kubernetes
@@ -414,10 +403,8 @@ lord-kyron_terraform-provider-phpipam
 lunny_gop
 Magic-Pod_bitrise-step-magic-pod
 Magic-Pod_bitrise-step-magicpod-uitest
-makrsoft_terraform
 MaksymBilenko_terraform-provider-synthetics
 manishgcloud_OCP-4
-marcelodevops_kubeform
 martezr_packer-provisioner-puppet-bolt
 mathianasj_terraform-provider-ovirt
 mathieugravil_terraform-provider-azuredevops
@@ -433,8 +420,6 @@ mdanidl_terraform-provider-guacamole
 md-tools_habi
 mesosphere_terraform-provider-dcos
 mevansam_terraform-provider-uaa
-meyoho_alauda-istio
-meyoho_amlfilebrowser
 mgoltzsche_k8spkg
 miclip_dotnet-extensions
 miclip_nuget-resource
@@ -489,8 +474,6 @@ notnoop_libcontainer-lxc-bug
 nrf110_terraform-provider-searchstax
 nttcom_terraform-provider-ecl
 nuclio_nuclio
-null-box_nomad
-null-box_tectonic-installer
 nutanix_terraform-provider-nutanix
 nvpnathan_pulumi-nsxt
 oh4real_terraform-provider-flare
@@ -531,7 +514,6 @@ pasali_terraform-provider-googleappscript
 paultyng_terraform-provider-packer
 peertransfer_terraform-provider-dkron
 PelionIoT_maestro
-pennatus_terraform-provider-google-beta
 periph_bootstrap
 petems_terraform-provider-extip
 petems_terraform-provider-sshconfig
@@ -574,10 +556,6 @@ razzie_razbox
 remijouannet_packer-osc-plugins
 replicatedhq_replicated
 rfiestas_terraform-provider-tumblr
-rhcontainerbot_buildah
-rhcontainerbot_cri-o
-rhcontainerbot_podman
-rhcontainerbot_skopeo
 ricardomaraschini_dump-place
 ricardomaraschini_tagger
 rickchen918_lab_builder
@@ -603,7 +581,6 @@ sapcc_containers
 sapcc_cyclone
 sapcc_swift-http-import
 sayya9_go-backup-es-mongo
-sbitio_terraform-provider-hiera5
 scaleci_scale
 Scalingo_terraform-provider-osc
 scibian_singularity-container
@@ -611,7 +588,6 @@ seanson_go-terraform-plan
 sensu_sensu-go
 sephriot_terraform-provider-azurermext
 sephriot_terraform-provider-mysqlexec
-SeppPenner_terraform-provider-aws
 serverscom_terraform-provider-serverscom
 sethvargo_terraform-provider-berglas
 sethvargo_terraform-provider-googlecalendar
@@ -626,7 +602,6 @@ skonto_test-docker-apis
 skybet_terraform-provider-linuxkit
 skycoin_skybian
 skycoin_skywire
-skydome_packer-builder-arm-image
 sky-uk_terraform-provider-nsx
 smutel_terraform-provider-centreon
 sneal_terraform-provider-opsman
@@ -666,7 +641,6 @@ sw092180_sensu-influxdb-handler
 t0mk_terraform-provider-inlets
 takutakahashi_itar
 taliesins_terraform-provider-hyperv
-taobeier_kind
 tapih_copy-ghcr-image-go
 tapirs_terraform-provider-aws-elb-to-lb
 taskcluster_taskcluster
@@ -774,10 +748,6 @@ Tweddle-SE-Team_terraform-provider-insightops
 Typeform_terraform-provider-kubectl
 ucloud_terraform-provider-ucloud
 ulikunitz_xz
-um3shpm_terraform-provider-aws
-unofficial-mirrors_buildah
-unofficial-mirrors_cri-o
-unofficial-mirrors_openshift-source-to-image
 u-root_u-root
 vasilax_atlantis13
 vasilax_atlantis15
@@ -824,7 +794,6 @@ xuzhang3_releasertest
 yamamoto-febc_terraform-provider-gmailfilter
 yamamoto-febc_terraform-provider-rke
 yamamoto-febc_terraform-provisioner-vnc
-yannhamon_terraform-provider-statuspage
 yannh_terraform-provider-statuspage
 yboaron_cluster-hosted-net-services-operator
 Yelp_terraform-provider-signalform
