@@ -1,7 +1,0 @@
-<br />
-commit = 223ed1651c78448e2b5d5d482cb5c0b27c0f127d<br />
-path = src/bin/lz4/lz4.c<br />
-blob = a1475dc9a9e4015fd4544a8ccc60208656e5da7c<br />
-project = <a href="https://salsa.debian.org/pkg-e-team/terminology">salsa.debian.org/pkg-e-team/terminology</a><br />
-path_url = <a href="https://salsa.debian.org/pkg-e-team/terminology/blob/HEAD/src/bin/lz4/lz4.c">https://salsa.debian.org/pkg-e-team/terminology/blob/HEAD/src/bin/lz4/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

@@ -1,7 +1,0 @@
-<br />
-commit = 27b27031301bcd448ee9d9dfc2d39cd227754601<br />
-path = src/lz4.c<br />
-blob = c9c5a072a193b9b7f7c010797d0e122038587332<br />
-project = <a href="https://salsa.debian.org/kafka-team/librdkafka">salsa.debian.org/kafka-team/librdkafka</a><br />
-path_url = <a href="https://salsa.debian.org/kafka-team/librdkafka/blob/HEAD/src/lz4.c">https://salsa.debian.org/kafka-team/librdkafka/blob/HEAD/src/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

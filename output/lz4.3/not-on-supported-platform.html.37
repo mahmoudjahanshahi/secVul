@@ -1,7 +1,0 @@
-<br />
-commit = 150850b80012f852521c9935145cf966946334d5<br />
-path = ext/lz4/lz4.c<br />
-blob = 1f2eafde3f650e71fa8f71309cbed7aa60364d3c<br />
-project = <a href="https://salsa.debian.org/yangfl-guest/ZeroTierOne">salsa.debian.org/yangfl-guest/ZeroTierOne</a><br />
-path_url = <a href="https://salsa.debian.org/yangfl-guest/ZeroTierOne/blob/HEAD/ext/lz4/lz4.c">https://salsa.debian.org/yangfl-guest/ZeroTierOne/blob/HEAD/ext/lz4/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

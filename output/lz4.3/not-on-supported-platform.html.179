@@ -1,7 +1,0 @@
-<br />
-commit = 2216e8799fe8e6e8a0209633198efc21dff902f6<br />
-path = bin/lz4.c<br />
-blob = cc76ebaa4b63520675d093dd2471c92f78a13dbd<br />
-project = <a href="https://salsa.debian.org/debian/nfdump">salsa.debian.org/debian/nfdump</a><br />
-path_url = <a href="https://salsa.debian.org/debian/nfdump/blob/HEAD/bin/lz4.c">https://salsa.debian.org/debian/nfdump/blob/HEAD/bin/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

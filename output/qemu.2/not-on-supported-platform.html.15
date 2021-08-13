@@ -1,8 +1,0 @@
-<br />
-commit = 57407ea44cc0a3d630b9b89a2be011f1955ce5c1<br />
-path = hw/net/pcnet.c<br />
-blob = 8a1c8f17b0cb561bbea57e4c51e1a980934f3599<br />
-project = <a href="https://git.kernel.org/pub/scm_virt_qemu/amit/migration">git.kernel.org/pub/scm_virt_qemu/amit/migration</a><br />
-path_url = <a href="https://git.kernel.org/pub/scm_virt_qemu/amit/migration/blob/HEAD/hw/net/pcnet.c">https://git.kernel.org/pub/scm_virt_qemu/amit/migration/blob/HEAD/hw/net/pcnet.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
-Project not accessible: 404 Not found<br />

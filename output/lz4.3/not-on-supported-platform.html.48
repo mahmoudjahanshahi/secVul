@@ -1,7 +1,0 @@
-<br />
-commit = 3c85cca68822917365829e3b29872c3346d0cc61<br />
-path = lib/gis/lz4.c<br />
-blob = 39a0f685c941359251e6c7c35cb951148578bef4<br />
-project = <a href="https://salsa.debian.org/debian-gis-team/grass">salsa.debian.org/debian-gis-team/grass</a><br />
-path_url = <a href="https://salsa.debian.org/debian-gis-team/grass/blob/HEAD/lib/gis/lz4.c">https://salsa.debian.org/debian-gis-team/grass/blob/HEAD/lib/gis/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

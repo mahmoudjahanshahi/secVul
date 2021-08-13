@@ -1,8 +1,0 @@
-<br />
-commit = 0c28d0d07fbcd7aa44d231241d444d00882256e2<br />
-path = hw/net/pcnet.c<br />
-blob = 8486b80bb7f3eb750ac3f22b79cce16703d0d9e6<br />
-project = <a href="https://git.kernel.org/pub/scm_virt_kvm/mst/qemu">git.kernel.org/pub/scm_virt_kvm/mst/qemu</a><br />
-path_url = <a href="https://git.kernel.org/pub/scm_virt_kvm/mst/qemu/blob/HEAD/hw/net/pcnet.c">https://git.kernel.org/pub/scm_virt_kvm/mst/qemu/blob/HEAD/hw/net/pcnet.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
-Project not accessible: 404 Not found<br />

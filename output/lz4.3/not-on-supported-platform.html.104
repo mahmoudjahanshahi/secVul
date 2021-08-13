@@ -1,7 +1,0 @@
-<br />
-commit = 1adbfc91952f7bf7db64e399a7a8c809b4c22932<br />
-path = src/impex/lz4.c<br />
-blob = f521b0fdb79107e754183921aad60cecd92f2fbf<br />
-project = <a href="https://salsa.debian.org/science-team/libvigraimpex">salsa.debian.org/science-team/libvigraimpex</a><br />
-path_url = <a href="https://salsa.debian.org/science-team/libvigraimpex/blob/HEAD/src/impex/lz4.c">https://salsa.debian.org/science-team/libvigraimpex/blob/HEAD/src/impex/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

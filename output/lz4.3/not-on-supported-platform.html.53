@@ -1,7 +1,0 @@
-<br />
-commit = 0abfaf0f778234c1e89b8ce622efeedd9a392dc1<br />
-path = horde_lz4-1.0.6/lz4.c<br />
-blob = 482a8ede33c87bbd9666cedace57539a28a07e23<br />
-project = <a href="https://salsa.debian.org/horde-team/php-horde-lz4">salsa.debian.org/horde-team/php-horde-lz4</a><br />
-path_url = <a href="https://salsa.debian.org/horde-team/php-horde-lz4/blob/HEAD/horde_lz4-1.0.6/lz4.c">https://salsa.debian.org/horde-team/php-horde-lz4/blob/HEAD/horde_lz4-1.0.6/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

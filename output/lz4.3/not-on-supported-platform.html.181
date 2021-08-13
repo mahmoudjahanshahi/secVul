@@ -1,7 +1,0 @@
-<br />
-commit = 5f46e285a3276e91450a91825daef79273f376ae<br />
-path = Tuvok/IO/3rdParty/lz4/lz4.c<br />
-blob = cde67f23d1bd45a80820654a2a89fdb5022d73b3<br />
-project = <a href="https://salsa.debian.org/med-team/imagevis3d">salsa.debian.org/med-team/imagevis3d</a><br />
-path_url = <a href="https://salsa.debian.org/med-team/imagevis3d/blob/HEAD/Tuvok/IO/3rdParty/lz4/lz4.c">https://salsa.debian.org/med-team/imagevis3d/blob/HEAD/Tuvok/IO/3rdParty/lz4/lz4.c</a><br />
-latest blob = Error: host must be one of github, gitlab, or bitbucket<br />
