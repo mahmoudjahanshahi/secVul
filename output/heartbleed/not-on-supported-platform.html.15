@@ -1,0 +1,7 @@
+<br />
+commit = f6dfbeed3c82e3bfc9cda2f4cd80f1e1b5515ba9<br />
+path = ssl/t1_lib.c<br />
+blob = e21b8a2f039ea142dc93f8f44a45e3304952da46<br />
+project = <a href="https://salsa.debian.org/ondrej/openssl">salsa.debian.org/ondrej/openssl</a><br />
+path_url = <a href="https://salsa.debian.org/ondrej/openssl/blob/HEAD/ssl/t1_lib.c">https://salsa.debian.org/ondrej/openssl/blob/HEAD/ssl/t1_lib.c</a><br />
+latest blob = Error: host must be one of github, gitlab, or bitbucket<br />

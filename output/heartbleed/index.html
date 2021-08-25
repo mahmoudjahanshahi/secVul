@@ -1,0 +1,23 @@
+<h1>heartbleed</h1>
+<h2>Phase 1</h2>
+Commit that fixed a vulnerability: 731f431497f463f3a2a97236fe0187b11c44aead<br />
+Relevant file in the above commit: /home/dreid6/openssl/ssl/t1_lib.c<br />
+90 <a href=bad_blobs.txt>Vulnerable Blobs </a>(from git log t1_lib.c)<br />
+439 <a href=good_blobs.txt>Fixed Blobs </a>(from git log t1_lib.c)<br />
+<p />
+<font size=-1>phase1-v2 finished on Wed Jul 21 00:22:54 EDT 2021</font><br />
+<font size=-1>command: ./phase1-v2 /home/dreid6/openssl/ssl/t1_lib.c heartbleed 731f431497f463f3a2a97236fe0187b11c44aead 4817504d069b4c5082161b02a22116ad75f822b1</font><br />
+<p />
+<h2>Phase 2</h2>
+<h3>Projects which have contained one of the presumably vulnerable blobs:</h3>
+121 <a href=vulnerable.html>Vulnerable Projects</a> (Known to contain presumably vulnerable blob in the most current revision)<br />
+3156 <a href=not-vulnerable.html>Not Vulnerable Projects</a> (Known to contain a fixed version in the most current revision)<br />
+211 <a href=unknown.html>Unknown Projects</a> (File has been changed in most current revision, unknown if change fixes vulnerability)<br />
+400 <a href=proj-not-found.html>Unavailable Projects</a> (Projects which are not currently accessible online)<br />
+9 <a href=file-not-found.html>Unavailable Files</a> (Files which are not in the current revision of the default branch)<br />
+5 <a href=not-on-supported-platform.html>Projects not on supported platform</a> (Currently, only github, gitlab, and bitbucket are supported)<br />
+<p />
+<font size=-1>
+Report creation started Wed Jul 21 00:24:30 EDT 2021 and finished Wed Jul 21 00:36:33 EDT 2021
+<br />command: ./phase2 heartbleed<br />
+</font>
