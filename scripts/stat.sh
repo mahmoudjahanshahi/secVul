@@ -41,7 +41,7 @@ done;
 ##recently active
 t6=1609477200;
 t18=1577854800;
-echo "ACtive in last 6 and 18 months";
+echo "Active in last 6 and 18 months";
 for i in {vulnerable,not-vulnerable}; do
 	echo $i;
 	cat data/$p/$i.P2t |
