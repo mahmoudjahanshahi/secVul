@@ -72,3 +72,21 @@ for i in {vulnerable,not-vulnerable}; do
 	done;
 done;
 
+#number of authors
+for i in {vulnerable,not-vulnerable}; do
+        cat data/$p/$i.Projects |
+        while read line; do
+                na=$(echo $line | ~/lookup/getValues -f P2A | wc -l);
+                echo $line\;$na;
+        done > data/$p/$i.P2na;
+done;
+##
+echo "More than 1, 10, 100, 1000 authors";
+for i in {vulnerable,not-vulnerable}; do
+        echo $i;
+        for j in {1,10,100,1000}; do
+                cat data/$p/$i.P2na |
+                awk -F\; -v threshold=$j '{if ($2 > threshold) print}' | wc -l;
+        done;
+done;
+
